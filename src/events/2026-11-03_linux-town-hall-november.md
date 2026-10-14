@@ -1,8 +1,6 @@
 ---
 title: Linux Town Hall November
-description: |-
-  Join us for our monthly event! Held on the first Tuesday of every month.
-  This month is the AGM.
+description: Join us for our monthly event! Held on the first Tuesday of every month.
 eventDate: 2026-11-03
 startTime: 6:00 PM
 endTime: 8:30 PM
