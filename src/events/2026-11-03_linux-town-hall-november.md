@@ -17,7 +17,6 @@ tags:
   - Online
 gallery: /assets/images/linux-town-hall-community
 ---
-
 <style>
 .lth-hero {
   position: relative;
@@ -87,26 +86,37 @@ gallery: /assets/images/linux-town-hall-community
 Join us for the Linux Town Hall October meeting for hardware, books, community discussion, a featured talk, and two short talks.
 
 {% set speakers = [
-  { name: "TBC", talk: "TBC", featured: true },
-  { name: "TBC", talk: "TBC" },
-  { name: "TBC", talk: "TBC" }
+  {
+    "name": "TBC",
+    "talk": "TBC",
+    "featured": true
+  },
+  {
+    "name": "TBC",
+    "talk": "TBC"
+  },
+  {
+    "name": "TBC",
+    "talk": "TBC"
+  }
 ] %}
 {% include "partials/speakers.njk" %}
 
 </div>
 
 ## Key Discussion Points
-- TBC
 
-For upcoming events, we welcome more talks, demos, lightning talk, and presentations:   
+* TBC
+
+For upcoming events, we welcome more talks, demos, lightning talk, and presentations:\
 <https://linuxvictoria.org/submissions/>
 
 ## Pre-Activity: Hardware Exchange & Book Circulation
 
 From 6pm, drop by the 2nd floor lobby (kettle's on for tea and biscuits) for two ongoing community swaps:
 
-- **Hardware Exchange**:  bring along second-hand hardware you no longer need; take home whatever someone else has brought
-- **Book Circulation**: bring books to lend, borrow one that catches your eye
+* **Hardware Exchange**:  bring along second-hand hardware you no longer need; take home whatever someone else has brought
+* **Book Circulation**: bring books to lend, borrow one that catches your eye
 
 No obligation either way. Come for one, both, or just the tea.
 
@@ -114,12 +124,12 @@ No obligation either way. Come for one, both, or just the tea.
 
 From 7pm, the Town Hall proper moves to the training and learning space (the upstairs room with the computers) at Kathleen Syme Library, for community discussion points, our featured talk, and two short talks.
 
-Maps Link for Kathleen Syme Library:   
+Maps Link for Kathleen Syme Library:\
 <https://maps.app.goo.gl/FhSaC53ERfJYRaBC7>
 
 ## How To Join Online
 
-Link to join:   
+Link to join:\
 <https://electronworkshop.com.au/goto/venue>
 
 We use a self-hosted Big Blue Button instance (aka BBB) for this meeting, managed by Electron Workshop and hosted by Serversaurus.
@@ -128,17 +138,16 @@ RSVP link: TBC
 
 ### Schedule
 
-- 18:00 Pre-activity - 2nd floor lobby: tea & biscuits, Hardware Exchange, Book Circulation
-- 19:00 Meet and greet
-- 19:30 Opening - community discussion points
-- 19:45 Featured Talk - TBC
-- 20:05 Short talk - TBC
-- 20:15 Short talk - TBC
-- 20:30 Closure - then pizza at Papa Gino's nearby for anyone keen
-
+* 18:00 Pre-activity - 2nd floor lobby: tea & biscuits, Hardware Exchange, Book Circulation
+* 19:00 Meet and greet
+* 19:30 Opening - community discussion points
+* 19:45 Featured Talk - TBC
+* 20:05 Short talk - TBC
+* 20:15 Short talk - TBC
+* 20:30 Closure - then pizza at Papa Gino's nearby for anyone keen
 
 ## The Community That Shows Up
 
-Beyond the talks, Town Hall is tea and biscuits, hardware swaps, book circulation, and pizza afterwards — here's the crowd from June and July.
+Beyond the talks, Town Hall is tea and biscuits, hardware swaps, book circulation, and pizza afterwards.
 
 {% include "partials/communityGallery.njk" %}
